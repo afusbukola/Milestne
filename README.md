@@ -14,5 +14,5 @@ creating of two policyholders that have paid for one of the products and their a
 Adherence  to coding standards and practices.
 
 Software required
-Python 4.4.1
-R 3.2
+R 4.4.1
+Python 3.1
